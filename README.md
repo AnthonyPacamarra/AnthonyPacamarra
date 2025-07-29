@@ -37,6 +37,15 @@ I'm excited about clean UI, scalable backend systems, and continuous learning. C
 
 ---
 
+## 🏅 Awards & Recognition
+
+- 🎓 **Graduated Cum Laude** – S.Y. 2024–2025, University of San Jose–Recoletos  
+- 🚀 **Top 19, Philippine Start-up Challenge 8 – Region 7** – For project *aQuaQuest* (October 2023)  
+- 🌐 **International Project-Based Learning Award** – For collaborative innovation in global tech education  
+- 🛸 **2nd Place, Smart Drone Vision Challenge** – iPBL Smart Drone Program (2024)
+
+---
+
 ## 📫 Let's Connect
 
 - ✉️ anthony.alipoyo.pacamarra@gmail.com  
