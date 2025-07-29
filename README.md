@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Anthony Pacamarra
 
-🎓 **BS in Information Technology**  
-Major in Web and Mobile Application Development  
+🎓 **BS in Information Technology | Major in Web and Mobile Application Development**  
 📍 Cebu, Philippines
 
 ---
